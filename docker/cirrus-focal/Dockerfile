@@ -1,4 +1,4 @@
-from ubuntu:focal
+from ubuntu:20.04
 
 # 1. python-stuff and HWI dependencies
 # 2. capability to build bitcoind
